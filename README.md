@@ -4,4 +4,7 @@
 
 2. Remote changes from GitHub
 
-3. Срытпуы from Oks
+3. Changes from Oks
+
+4. Changes from Aleksei
+
