@@ -12,3 +12,5 @@
 
 6.Pull request.
 
+7.Git clone.
+
