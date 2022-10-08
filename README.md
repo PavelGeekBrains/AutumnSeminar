@@ -8,3 +8,9 @@
 
 4. Changes from Aleksei
 
+5.Changes from Saylas
+
+6.Pull request.
+
+7.Git clone.
+
